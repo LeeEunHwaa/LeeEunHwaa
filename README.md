@@ -1,5 +1,5 @@
 <div align= "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffa8f3,100:ff80d7&height=180&text=♡%20EUN-HWA's%20GitHub%20♡&animation=fadeIn&fontColor=753e79&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&text=%20EUN-HWA's%20GitHub%20&animation=fadeIn&fontColor=000000&fontSize=60" />
 </div>
 
 ##   🙌 소개
