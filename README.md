@@ -70,7 +70,7 @@
 
 ## 💻 프로젝트
 
-**한림대학교 챗봇 Da-Ara 🔎 _[깃허브 바로가기](https://github.com/LeeEunHwaa/Hallym_Chat-bot)_**
+**한림대학교 챗봇 Da-Ara 🔎 _[깃허브](https://github.com/LeeEunHwaa/Hallym_Chat-bot)_**
 - *2024.03.04 ~ 2024.05.22*
 
 - 학생들을 위한 한림대학교 챗봇 개발
@@ -79,11 +79,10 @@
 
 - 기술 스택: Python, React, MariaDB, Flask, Spring Boot
 
-  - 전반적인 개발 기획 주도 및 Figma를 이용한 웹 디자인
-  - 재사용 가능한 컴포넌트를 사용해 로그인 및 회원가입 페이지 구현 + Firebase 연동
-  - 프로필 페이지(로그아웃, 프로필 이미지, 프로필 정보, 자기소개, 프로젝트 사진 및 소개) 구현
-  - 프로필 이미지 컴포넌트를 사용해 각 사용자의 댓글 마다 개개인의 프로필 이미지 표시 / 프로필 이미지 클릭 시 각 유저의 프로필 페이지로 이동할 수 있게 구현
-  - 본인이 작성한 댓글 수정 및 삭제 기능 구현
+  - 학습 데이터셋 구축
+  - Koalpaca-Polyglot-5.8B 모델 파인튜닝 후 Huggingface에 모델 업로드
+  - 속도 향상을 위한 RAG모델 개발
+  - Flask를 이용해 모델을 API로 구현
 
 </br>
 <br>
