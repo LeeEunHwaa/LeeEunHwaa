@@ -83,8 +83,6 @@
   - Koalpaca-Polyglot-5.8B 모델 파인튜닝 후 Huggingface에 모델 업로드
   - 속도 향상을 위한 RAG모델 개발
   - Flask를 이용해 모델을 API로 구현
- 
-    ![image](https://github.com/user-attachments/assets/bf694edc-5990-468b-ad43-9dfb68cff296)
 
 
 </br>
@@ -103,7 +101,7 @@
   - CalendarView를 이용한 캘린더 화면 및 Dialog를 통한 일정 추가 삭제 관리 기능 구현 + Firebase 연동
   - 하단 네비게이션 바 구현
 
-![image](https://github.com/user-attachments/assets/3a7981ef-e881-4a04-acc8-f386025b0ad9)
+
 </br>
 <br>
 
