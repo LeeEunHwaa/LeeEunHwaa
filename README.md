@@ -95,22 +95,25 @@
 
 - 기술 스택: Python, streamlit
 
-  - 전반적인 개발 기획 주도
-  - 애플리케이션의 전체 CSS 구현
-  - 인트로 화면, 로그인 및 회원가입 화면 구현 + Firebase 연동
-  - CalendarView를 이용한 캘린더 화면 및 Dialog를 통한 일정 추가 삭제 관리 기능 구현 + Firebase 연동
-  - 하단 네비게이션 바 구현
+  - whisper모델을 이용하여 녹음본을 텍스트 변환
+  - 
+  - 
+  - 
+  - 
 
 
 </br>
 <br>
 
-**🔐 RGB 암호 시스템 🔎 _[깃허브](https://github.com/ccchaeng/Simple-Cryptographic-System.git)_**
+**강원 교통사고 데이터분석 🔎 _[깃허브](https://github.com/LeeEunHwaa/Traffic_Accident_Data_Analysis)_**
 
-- *2024.04.24 ~ 2024.04.28*
+- *2024.11.12 ~ 2024.11.22*
 
-- 임의의 RGB 값으로 키를 생성해 평문을 암호화하고 복호화하는 시스템.
-- 송/수신자가 사전에 서로 동일한 키를 공유(대칭키 암호 시스템)해야 하며, 임의로 만들어 놓은 알파벳 색상 표를 가지고 알파벳에 맞는 색상과 키를 합성해 암호문을 만들 수 있는 시스템
+- [TAAS Open API](https://opendata.koroad.or.kr/)에서 사망교통사고정보 데이터셋 호출
+- Python을 이용해 시각화
+- R을 이용해 데이터전처리
+- Random Forest로 교통사고 피해 예측 모델 생성
+- LightGBM으로 사고 유형 예측 모델 생성
 <br>
 
 **🐱 고양이 아케이드 퍼즐 게임 🔎 _[깃허브](https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)_**
