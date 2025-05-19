@@ -1,5 +1,5 @@
 <div align= "center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffa8f3,100:ff80d7&height=180&text=♡%20CHAE-EUN's%20GitHub%20♡&animation=fadeIn&fontColor=753e79&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffa8f3,100:ff80d7&height=180&text=♡%20EUN-HWA's%20GitHub%20♡&animation=fadeIn&fontColor=753e79&fontSize=60" />
 </div>
 
 ##   🙌 소개
@@ -12,8 +12,9 @@
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택 </h2> <br> 
-    ![](URL_https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-    
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
     
 </div>
 <div style="text-align: left;">
