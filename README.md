@@ -88,10 +88,10 @@
 </br>
 <br>
 
-** 음성인식 + RAG 기반 AI 튜터 (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/Lecture_Tutor)_**
+**음성인식 + RAG 기반 AI 튜터 (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/Lecture_Tutor)_**
 - *2024.11.12 ~ 2024.11.22*
 
-- 강의 녹음본을 업로드 후 텍스트 변환 / 변환된 텍스트 기반하에 질의응답 시스
+- 강의 녹음본을 업로드 후 텍스트 변환 / 변환된 텍스트 기반하에 질의응답 시스템
 
 - 기술 스택: Python, streamlit
 
