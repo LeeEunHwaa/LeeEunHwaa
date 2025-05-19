@@ -83,6 +83,9 @@
   - Koalpaca-Polyglot-5.8B 모델 파인튜닝 후 Huggingface에 모델 업로드
   - 속도 향상을 위한 RAG모델 개발
   - Flask를 이용해 모델을 API로 구현
+ 
+    ![image](https://github.com/user-attachments/assets/bf694edc-5990-468b-ad43-9dfb68cff296)
+
 
 </br>
 <br>
