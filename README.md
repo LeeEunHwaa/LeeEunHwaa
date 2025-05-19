@@ -13,7 +13,7 @@
 
 
 
-<div style="text-align: left;">
+
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택 </h2> 
     <br> 
     
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Android-5C2D91?style=flat&logo=Android&logoColor=white"/>
     
     
-</div>
+
 <div style="text-align: left;">
 <br> 
 <div style="text-align: left;">  </div> 
