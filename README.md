@@ -70,14 +70,14 @@
 
 ## 💻 프로젝트
 
-**🐶 개발자를 위한 웹사이트 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/gaebalbadak.git)_**
-- *2025.02.13 ~ 진행중*
+**한림대학교 챗봇 Da-Ara 🔎 _[깃허브](https://github.com/LeeEunHwaa/Hallym_Chat-bot)_**
+- *2024.03.04 ~ 2024.05.22*
 
-- 개발자들의 바닥까지 파헤치는 공간
+- 학생들을 위한 한림대학교 챗봇 개발
 
-- 커뮤니티를 통한 코드 질문과 오류 해결 / 스터디 모집 / 대회 및 부트캠프 공고 등 개발자들을 위한 다양한 정보를 모아둔 웹사이트
+- 한림대학교에 대한 전반적인 정보 / 선배를 통해 알 수 있었던 꿀팁까지 알 수 있는 챗봇 
 
-- 기술 스택: Figma, JavaScript, React, Node.js, SCSS, Firebase(Authentication, Firestore Database)
+- 기술 스택: Python, React, MariaDB, Flask, Spring Boot
 
   - 전반적인 개발 기획 주도 및 Figma를 이용한 웹 디자인
   - 재사용 가능한 컴포넌트를 사용해 로그인 및 회원가입 페이지 구현 + Firebase 연동
