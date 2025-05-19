@@ -116,55 +116,11 @@
 - LightGBM으로 사고 유형 예측 모델 생성
 <br>
 
-**🐱 고양이 아케이드 퍼즐 게임 🔎 _[깃허브](https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)_**
 
-- *2023.11.08 ~ 2023.11.28*
 
-- 주인이 외출한 사이 고양이가 방 안을 돌아다니며 여기저기 흩어져 있는 고양이의 보물(먹이)을 찾아 다양한 퀴즈를 풀며 보물을 얻는 아케이드 퍼즐 게임
 
-- 기술 스택: Unity Engine, C#
 
-  - 전체 개발 기획 및 게임 디자인
-  - 컨트롤러로 캐릭터 이동할 수 있는 Controller 구현
-  - 캐릭터 이동 시 시점 카메라가 캐릭터를 따라다닐 수 잇도록 CameraMove 구현
-  - 아이템 클릭 시 퀴즈 + 정답 / 오답 로직 구현 -> QuizController
-  - 남은 보물, 남은 시간 / 게임 시작, 게임 종료, 다시하기를 위한 GameManager 구현
 
-| 인트로 | 인게임 | 퀴즈 |
-| :-: | :-: | :-: |
-| <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/534e83d1-d9fa-4904-bb23-a7d7dee14261" /> | <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/3eb45ff8-61a7-45be-84c6-bcfdeb9c78b2" /> | <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/f2133b15-4f6a-4014-a266-5fecba0ed2b7" /> |
 
-</br>
-<br>
 
-**🏠 똑똑 스마트 홈 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/SmartHome.git)_**
 
-- *2023.11.03 ~ 2023.11.29*
-
-- Arduino UNO Board와 서브모터, 발광 다이오드/LED/LCD, 버튼(스위치), 초음파 센서, 조도 센서, 부동 센서, 인체 감지 센서, 피에조 스피커를 이용해 제작
-
-- 기술 스택: Arduino IDE
-
-  - 개발 기획
-  - 스위치를 이용해 ON/OFF가 가능한 집 내부의 전등 (아두이노 보드 및 코드 구현)
-  - 인체 감지 센서를 이용해 현관문 앞에 사람이 서있으면 자동으로 불이 켜지는 전등 (아두이노 보드 및 코드 구현)
-
-| 세부 사진 | 완성 사진 |
-| :-: | :-: |
-| <img width="345" height="150" alt="세부사진" src="https://github.com/user-attachments/assets/b33c49da-70c1-40b2-8d68-e33748edae39" /> | <img width="345" height="150" alt="완성사진" src="https://github.com/user-attachments/assets/e8b1c9a9-1702-4d96-8aec-76e53fe79a6b" /> |
-</br>
-<br>
-
-## 🏅
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeng30415)](https://solved.ac/{chaeng30415})
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=chaeng30415&theme=cold)
-
-<div style="text-align: left;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ccchaeng&bg_color=60,ffccf1,ffe5f7&title_color=b16dba&text_color=b16dba"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccchaeng&layout=compact&bg_color=60,ffccf1,ffe5f7&title_color=b16dba&text_color=b16dba"
-           /> </div> 
-    </div>&layout=compact&bg_color=60,ffccf1,ffe5f7&title_color=b16dba&text_color=b16dba"
-      /> </div> 
-</div>
