@@ -17,7 +17,9 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택 </h2> 
     <br> 
     
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    
+    <img src="https://img.shields.io/badge/Android-5C2D91?style=flat&logo=Android&logoColor=white"/>
+    
     
 </div>
 <div style="text-align: left;">
