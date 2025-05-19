@@ -70,7 +70,7 @@
 
 ## 💻 프로젝트
 
-**한림대학교 챗봇 Da-Ara 🔎 _[깃허브](https://github.com/LeeEunHwaa/Hallym_Chat-bot)_**
+**한림대학교 챗봇 Da-Ara (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/Hallym_Chat-bot)_**
 - *2024.03.04 ~ 2024.05.22*
 
 - 학생들을 위한 한림대학교 챗봇 개발
@@ -80,7 +80,7 @@
 - 기술 스택: Python, React, MariaDB, Flask, Spring Boot
 
   - 학습 데이터셋 구축
-  - Koalpaca-Polyglot-5.8B 모델 파인튜닝 후 Huggingface에 모델 업로드
+  - Koalpaca-Polyglot-5.8B 모델 파인튜닝 후 Huggingface에 모델 업로드 _[허깅페이스](https://huggingface.co/EUNHWA11)_
   - 속도 향상을 위한 RAG모델 개발
   - Flask를 이용해 모델을 API로 구현
 
@@ -88,12 +88,12 @@
 </br>
 <br>
 
-**💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
-- *2024.09.06 ~ 2024.11.22*
+** 음성인식 + RAG 기반 AI 튜터 (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/Lecture_Tutor)_**
+- *2024.11.12 ~ 2024.11.22*
 
-- 사용자들이 더 나은 건강을 유지하며, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
+- 강의 녹음본을 업로드 후 텍스트 변환 / 변환된 텍스트 기반하에 질의응답 시스
 
-- 기술 스택: Android, HTML, CSS, JAVA, Firebase
+- 기술 스택: Python, streamlit
 
   - 전반적인 개발 기획 주도
   - 애플리케이션의 전체 CSS 구현
