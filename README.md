@@ -70,7 +70,7 @@
 
 ## 💻 프로젝트
 
-**한림대학교 챗봇 Da-Ara 🔎 _[깃허브](https://github.com/LeeEunHwaa/Hallym_Chat-bot)_**
+**한림대학교 챗봇 Da-Ara 🔎 _[깃허브 바로가기](https://github.com/LeeEunHwaa/Hallym_Chat-bot)_**
 - *2024.03.04 ~ 2024.05.22*
 
 - 학생들을 위한 한림대학교 챗봇 개발
