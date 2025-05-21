@@ -108,7 +108,7 @@
 </br>
 <br>
 
-**강원 교통사고 데이터분석 🔎 _[깃허브](https://github.com/LeeEunHwaa/Traffic_Accident_Data_Analysis)_**
+**강원 교통사고 데이터분석 (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/Traffic_Accident_Data_Analysis)_**
 
 - *2024.11.12 ~ 2024.11.22*
 
@@ -118,6 +118,24 @@
 - Random Forest로 교통사고 피해 예측 모델 생성
 - LightGBM으로 사고 유형 예측 모델 생성
 <br>
+
+<br>
+
+**AI 생성 텍스트 분류 (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/AI-Text-Classifier)_**
+- *2025.05.13 ~ 2025.05.26*
+
+- AI 생성 텍스트인지 사람이 쓴 텍스트인지 구분하는 모델 생성
+
+- 기술 스택: Python
+
+  - 
+  - 
+  - 
+  - 
+  - 
+
+
+</br>
 
 
 
