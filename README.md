@@ -96,7 +96,7 @@
 - 기술 스택: Python, streamlit
 
   - whisper모델을 이용하여 녹음본을 텍스트 변환
-  - 
+  - RAG모델 구현
   - 
   - 
   - 
