@@ -96,10 +96,13 @@
 - 기술 스택: Python, streamlit
 
   - whisper모델을 이용하여 녹음본을 텍스트 변환
-  - RAG모델 구현
-  - 
-  - 
-  - 
+  - 임베딩 모델로는 QA 작업에 특화된 'multi-qa-mpnet-base-dot-v1'을 사용
+  - search_txt_file 함수는 사용자 질문과 가장 유사한 5개의 문서를 MMR(Maximum Marginal Relevance) 방식으로 검색
+  - Llama3 모델 사용
+  - tool_rag 함수는 통합 검색-응답 기능을 제공
+      - 텍스트 파일에서 관련 정보를 검색
+      - 검색 결과를 바탕으로 LLM이 한국어로 답변을 생성
+      - 검색 결과가 없으면 LLM이 자체 지식을 활용하여 답변
 
 
 </br>
