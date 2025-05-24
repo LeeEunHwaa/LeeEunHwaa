@@ -80,7 +80,7 @@
 - 기술 스택: Python, React, MariaDB, Flask, Spring Boot
 
   - 학습 데이터셋 구축
-  - Koalpaca-Polyglot-5.8B 모델 파인튜닝 후 Huggingface에 모델 업로드 _[허깅페이스](https://huggingface.co/EUNHWA11)_
+  - Koalpaca-Polyglot-5.8B 모델 파인튜닝 후 Huggingface에 모델 업로드 _[허깅페이스](https://huggingface.co/EUNHWA11/koalpaca_step_8000_hallym_DaAra)_
   - 속도 향상을 위한 RAG모델 개발
   - Flask를 이용해 모델을 API로 구현
 
