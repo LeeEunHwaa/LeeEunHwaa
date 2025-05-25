@@ -59,6 +59,7 @@
 <br>
 
 ## 👩🏻‍🎓 교내 활동
+- [2025] 어학연수 Utah State University, Dept. of Computer Science (Data Science)
 - [2025] 한림대학교 디지털 경진대회
 - [2024] 정보과학대학 학술제 '서공제' 완성작 부문 참가
 - [2024] 정보과학대학 학술제 '서공제' 데이터 분석 부분 금상
