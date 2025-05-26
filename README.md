@@ -112,11 +112,11 @@
 
 - *2024.11.12 ~ 2024.11.22*
 
-- [TAAS Open API](https://opendata.koroad.or.kr/)에서 사망교통사고정보 데이터셋 호출
-- Python을 이용해 시각화
-- R을 이용해 데이터전처리
-- Random Forest로 교통사고 피해 예측 모델 생성
-- LightGBM으로 사고 유형 예측 모델 생성
+    - [TAAS Open API](https://opendata.koroad.or.kr/)에서 사망교통사고정보 데이터셋 호출
+    - Python을 이용해 시각화
+    - R을 이용해 데이터전처리
+    - Random Forest로 교통사고 피해 예측 모델 생성
+    - LightGBM으로 사고 유형 예측 모델 생성
 <br>
 
 <br>
@@ -127,12 +127,11 @@
 - AI 생성 텍스트인지 사람이 쓴 텍스트인지 구분하는 모델 생성
 
 - 기술 스택: Python
-
-  -  BERT 토크나이저 + BERT 임베딩 + LSTM 기반 분류기
-  - 한국어 기반의 KLUE BERT 토크나이저 사용
-  - 경험적 하이퍼파라미터 탐색,  AdamW+ scheduler로 학습률 조절
-  - 탐색된 최적의 학습방법 기반으로 성능 향상 위해 K-Fold 적용
-  - 5개의 모델을 만든 후 Soft voting으로 예측 결과 도출
+    -  BERT 토크나이저 + BERT 임베딩 + LSTM 기반 분류기
+    - 한국어 기반의 KLUE BERT 토크나이저 사용
+    - 경험적 하이퍼파라미터 탐색,  AdamW+ scheduler로 학습률 조절
+    - 탐색된 최적의 학습방법 기반으로 성능 향상 위해 K-Fold 적용
+    - 5개의 모델을 만든 후 Soft voting으로 예측 결과 도출
 
 
 </br>
