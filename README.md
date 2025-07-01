@@ -6,6 +6,7 @@
 - 이름: 이은화 / Lee Eun-hwa
 - 소속: 한림대학교 정보과학대학 소프트웨어학부 빅데이터 전공 /  콘텐츠IT 복수전공
 - Email: eunhwa066@gmail.com
+- Huggingface : _[Huggingface Profile](https://huggingface.co/EUNHWA11)_
 
 <br>
 
@@ -71,22 +72,26 @@
 
 ## 💻 프로젝트
 
-**한림대학교 챗봇 Da-Ara (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/Hallym_Chat-bot)_**
-- *2024.03.04 ~ 2024.05.22*
 
-- 학생들을 위한 한림대학교 챗봇 개발
 
-- 한림대학교에 대한 전반적인 정보 / 선배를 통해 알 수 있었던 꿀팁까지 알 수 있는 챗봇 
 
-- 기술 스택: Python, React, MariaDB, Flask, Spring Boot
+<br>
 
-  - 학습 데이터셋 구축
-  - Koalpaca-Polyglot-5.8B 모델 파인튜닝 후 Huggingface에 모델 업로드 _[허깅페이스](https://huggingface.co/EUNHWA11/koalpaca_step_8000_hallym_DaAra)_
-  - 속도 향상을 위한 RAG모델 개발
-  - Flask를 이용해 모델을 API로 구현
+**AI 생성 텍스트 분류 (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/AI-Text-Classifier)_**
+- *2025.05.13 ~ 2025.05.26*
+
+- AI 생성 텍스트인지 사람이 쓴 텍스트인지 구분하는 모델 생성
+
+- 기술 스택: Python
+    -  BERT 토크나이저 + BERT 임베딩 + LSTM 기반 분류기
+    - 한국어 기반의 KLUE BERT 토크나이저 사용
+    - 경험적 하이퍼파라미터 탐색,  AdamW+ scheduler로 학습률 조절
+    - 탐색된 최적의 학습방법 기반으로 성능 향상 위해 K-Fold 적용
+    - 5개의 모델을 만든 후 Soft voting으로 예측 결과 도출
 
 
 </br>
+
 <br>
 
 **음성인식 + RAG 기반 AI 튜터 (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/Lecture_Tutor)_**
@@ -107,6 +112,7 @@
 
 
 </br>
+
 <br>
 
 **강원 교통사고 데이터분석 (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/Traffic_Accident_Data_Analysis)_**
@@ -118,21 +124,23 @@
     - R을 이용해 데이터전처리
     - Random Forest로 교통사고 피해 예측 모델 생성
     - LightGBM으로 사고 유형 예측 모델 생성
-<br>
+</br>
 
 <br>
 
-**AI 생성 텍스트 분류 (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/AI-Text-Classifier)_**
-- *2025.05.13 ~ 2025.05.26*
+**한림대학교 챗봇 Da-Ara (TEAM) 🔎 _[깃허브](https://github.com/LeeEunHwaa/Hallym_Chat-bot)_**
+- *2024.03.04 ~ 2024.05.22*
 
-- AI 생성 텍스트인지 사람이 쓴 텍스트인지 구분하는 모델 생성
+- 학생들을 위한 한림대학교 챗봇 개발
 
-- 기술 스택: Python
-    -  BERT 토크나이저 + BERT 임베딩 + LSTM 기반 분류기
-    - 한국어 기반의 KLUE BERT 토크나이저 사용
-    - 경험적 하이퍼파라미터 탐색,  AdamW+ scheduler로 학습률 조절
-    - 탐색된 최적의 학습방법 기반으로 성능 향상 위해 K-Fold 적용
-    - 5개의 모델을 만든 후 Soft voting으로 예측 결과 도출
+- 한림대학교에 대한 전반적인 정보 / 선배를 통해 알 수 있었던 꿀팁까지 알 수 있는 챗봇 
+
+- 기술 스택: Python, React, MariaDB, Flask, Spring Boot
+
+  - 학습 데이터셋 구축
+  - Koalpaca-Polyglot-5.8B 모델 파인튜닝 후 Huggingface에 모델 업로드 _[허깅페이스](https://huggingface.co/EUNHWA11/koalpaca_step_8000_hallym_DaAra)_
+  - 속도 향상을 위한 RAG모델 개발
+  - Flask를 이용해 모델을 API로 구현
 
 
 </br>
